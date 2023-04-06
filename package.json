@@ -22,7 +22,6 @@
     "morgan": "^1.10.0",
     "nodemon": "^2.0.20"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Hariprasanth-HP/TN-Links.git"
